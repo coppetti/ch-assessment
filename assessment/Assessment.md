@@ -92,6 +92,8 @@ Also, the data schema will also have impact in the performance, so we need to be
 Using a database of your choice, create the table **tf** when your starting points are the files [Instances.csv](Instances.csv) and [UninstallEvents.csv](UninstallEvents.csv).
 In your solution, please **assume that the files are larger than 1GB each**. Any code that you need to write, preferably use c#.
 
+   Available at: https://github.com/coppetti/ch-assessment
+
 -----
 
 ### Exercise 2: External integration

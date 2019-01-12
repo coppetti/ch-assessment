@@ -135,3 +135,7 @@ return instance[0].instance as Instance, device as Device,"uninstall" as Event, 
 
 + Mistakes Happem:
 In the case of any mistake, you can reset (remove all nodes and relatiuonships) the db with: `MATCH (n) DETACH DELETE n`
+
+
+## Still have issues?
+Do not mind to contact: matheuscoppetti@gmail.com 
